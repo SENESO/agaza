@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>disable</ImplicitUsings>
+    <LangVersion>latest</LangVersion>
+    <GenerateDocumentationFile>true</GenerateDocumentationFile>
+    <PackageId>Seneso.Agaza</PackageId>
+    <Authors>Eslam Ashraf</Authors>
+    <Description>Egyptian public holidays for .NET: fixed national days, Coptic Easter and Sham El-Nessim, and Hijri-based Islamic holidays, with bilingual names.</Description>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <RepositoryUrl>https://github.com/SENESO/agaza</RepositoryUrl>
+  </PropertyGroup>
+
+</Project>
